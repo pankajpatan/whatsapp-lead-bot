@@ -1,0 +1,23 @@
+{
+  "name": "Demo Dental Clinic",
+  "description": "A fictional dental clinic used to demonstrate this bot.",
+  "hours": "Monday to Saturday, 10 am to 7 pm",
+  "location": "Sample Road, Jaipur",
+  "services": {
+    "Checkup": "Rs 500 (sample price)",
+    "Cleaning": "Rs 1,500 (sample price)",
+    "Root canal": "Price after checkup",
+    "Braces": "Price after consultation",
+    "Tooth extraction": "Price after checkup",
+    "Whitening": "Rs 4,000 (sample price)"
+  },
+  "service_keywords": {
+    "Checkup": ["checkup", "check up", "check-up", "pain", "toothache", "dard", "consult"],
+    "Cleaning": ["cleaning", "scaling", "safai"],
+    "Root canal": ["root canal", "rct"],
+    "Braces": ["braces", "aligner"],
+    "Tooth extraction": ["extraction", "wisdom", "nikalna"],
+    "Whitening": ["whitening", "white teeth", "safed"]
+  },
+  "urgent_care_note": "For severe swelling, heavy bleeding or trouble breathing, go to the nearest emergency room now."
+}
